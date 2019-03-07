@@ -1,13 +1,5 @@
 /**
- * Crea la clase Discos:
- *  Atributos:
- *    -autor: Nombre del autor.
- *    -titulo: Titulo del disco.
- *    -genero: Genero del disco
- *    -duracion: Duracion en minutos del disco.
- * 
- *  Metodos:
- *    
+ * Crea la clase Discos
  */
 package coleccion_De_Discos;
 
